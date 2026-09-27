@@ -35,12 +35,15 @@ Jada Rodgers
   
 ### 2. Amirah Muhammad
 #### Product Vision Statement:
+
    FOR students, faculty, staff, and visitors WHO need an easier way to locate classrooms and offices on campus, THE Campus Navigator is a campus navigation application THAT allows users to search for classrooms, offices, and other campus locations and receive information to help them find their destination. UNLIKE relying on campus signs, printed maps, or asking others for directions, OUR PRODUCT will provide a simple and convenient way to search for specific campus locations.
 
 #### Amirah Muhammad — Front-End Developer
+
    Amirah Muhammad will serve as the Front-End Developer. Her responsibilities will include designing and developing the user interface, creating the screens and controls that users interact with, and helping ensure that the application provides a simple and understandable user experience.
 
 #### Meeting Minutes
+
    Date: September 8, 2026 Time: 11:00 AM – 12:00 PM Attendees: Jada Rogers, Garret Godwin, and Amirah Muhammad
 
    During our meeting, we discussed how users would interact with the Campus Navigator. We talked about creating an interface that would allow users to search for classrooms and offices without making the application difficult to use.
@@ -51,12 +54,15 @@ Jada Rodgers
 
 ### 3. Jada Rodgers
 #### Product Vision Statement
+   
    FOR students, faculty, staff, and visitors WHO need an easier way to locate classrooms and offices on campus, THE Campus Navigator is a campus navigation application THAT allows users to search for classrooms, offices, and other campus locations and receive information to help them find their destination. UNLIKE relying on campus signs, printed maps, or asking others for directions, OUR PRODUCT will provide a simple and convenient way to search for specific campus locations.
 
 #### Jada Rodgers — Project Manager
+   
    I will serve as the Project Manager. My responsibilities will include managing the product vision, helping develop the product roadmap, organizing and prioritizing project tasks, assisting with user stories and the product backlog, coordinating team activities, and helping ensure that the product meets the needs of its intended users.
 
 #### Meeting Minutes
+   
    Date: September 8, 2026 Time: 11:00 AM – 12:00 PM Attendees: Jada Rodgers, Garret Godwin, and Amirah Muhammad
 
    During our meeting, we discussed how we wanted to organize the project and what responsibilities each team member would have. We agreed on the Campus Navigator idea and discussed its purpose of helping people find classrooms and offices on campus.
