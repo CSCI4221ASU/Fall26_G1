@@ -75,7 +75,7 @@ Jada Rodgers
 
 ## Part 2 -- Word done by each memeber
 ### Garret Godwin
-    See [Garret's Project 2](./Project2/Garret/Project-2/README.md)
+    See [Garret's Project 2](./Project2/Garret/README.md)
    
 ### Amirah Muhammad
 
@@ -84,4 +84,4 @@ Jada Rodgers
       
 
 ### Jada Rodgers
-    See [Jada's Project 2](./Project2/jada/Project-2/README.md)
+    See [Jada's Project 2](./Project2/jada/README.md)
