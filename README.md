@@ -75,6 +75,7 @@ Jada Rodgers
 
 ## Part 2 -- Word done by each memeber
 ### Garret Godwin
+
     See [Garret's Project 2](https://github.com/CSCI4221ASU/Fall26_G1/Project2/Garret/README.md)
    
 ### Amirah Muhammad
@@ -84,4 +85,5 @@ Jada Rodgers
       
 
 ### Jada Rodgers
-    See [Jada's Project 2]([.](https://github.com/CSCI4221ASU/Fall26_G1/Project2/jada/README.md)
+
+    See [Jada's Project 2](https://github.com/CSCI4221ASU/Fall26_G1/Project2/jada/README.md)
