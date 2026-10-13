@@ -78,6 +78,7 @@ Jada Rodgers
     See [./Garret-CSCI4221_F26/Project-2/README.md](Garret's Project 2)
    
 ### Amirah Muhammad
+
     No submission on GeorgiaView submission folder
       
 
