@@ -91,14 +91,14 @@ Jada Rodgers
 ## Project 3
 ### Garret Godwin
     
-  See [Garret's Project 2](Project3/Garret/feature.md)
+  See [Garret's Project 3](Project3/Garret/feature.md)
    
 ### Amirah Muhammad
 
-  See [Amirah's Project 2](Project3/Amirah/amirahminutes_3.md)
+  See [Amirah's Project 3](Project3/Amirah/amirahminutes_3.md)
       
 
 ### Jada Rodgers
 
-  See [Jada's Project 2](Project3/Jada/Project-2/JadaG1_minutes_4.md)
+  See [Jada's Project 3](Project3/Jada/Project-2/JadaG1_minutes_4.md)
 
