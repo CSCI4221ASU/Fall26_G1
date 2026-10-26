@@ -75,13 +75,14 @@ Jada Rodgers
 
 ## Part 2 -- Word done by each memeber
 ### Garret Godwin
-    See [./Garret-CSCI4221_F26/Project-2/README.md](Garret's Project 2)
+    
+  See [Garret's Project 2](Project2/Garret/README.md)
    
 ### Amirah Muhammad
 
-
-    No submission on GeorgiaView submission folder
+  No submission on GeorgiaView submission folder
       
 
 ### Jada Rodgers
-    See [./Jada-Fall26_G1/Project-2/README.md](Jada's Project 2)
+
+  See [Jada's Project 2](Project2/jada/README.md)
