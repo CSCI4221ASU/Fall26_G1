@@ -100,5 +100,5 @@ Jada Rodgers
 
 ### Jada Rodgers
 
-  See [Jada's Project 2](Project3/jada/Project-2/JadaG1_minutes_4.md)
+  See [Jada's Project 2](Project3/Jada/Project-2/JadaG1_minutes_4.md)
 
