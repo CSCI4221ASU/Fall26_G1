@@ -86,3 +86,19 @@ Jada Rodgers
 ### Jada Rodgers
 
   See [Jada's Project 2](Project2/jada/README.md)
+
+
+## Project 3
+### Garret Godwin
+    
+  See [Garret's Project 2](Project3/Garret/feature.md)
+   
+### Amirah Muhammad
+
+  See [Amirah's Project 2](Project3/Amirah/amirahminutes-3.md)
+      
+
+### Jada Rodgers
+
+  See [Jada's Project 2](Project3/jada/JadaG1_minutes_4.md)
+
