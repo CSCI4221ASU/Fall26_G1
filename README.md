@@ -95,10 +95,10 @@ Jada Rodgers
    
 ### Amirah Muhammad
 
-  See [Amirah's Project 2](Project3/Amirah/amirahminutes-3.md)
+  See [Amirah's Project 2](Project3/Amirah/amirahminutes_3.md)
       
 
 ### Jada Rodgers
 
-  See [Jada's Project 2](Project3/jada/JadaG1_minutes_4.md)
+  See [Jada's Project 2](Project3/jada/Project-2/JadaG1_minutes_4.md)
 
